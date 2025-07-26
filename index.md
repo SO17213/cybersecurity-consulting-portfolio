@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "SO17213 Cybersecurity Portfolio"
+title: Cybersecurity Portfolio
 permalink: /
 ---
+
 
 # 👋 Hi, I'm Segun Oladipo
 
