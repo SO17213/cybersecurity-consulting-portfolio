@@ -9,7 +9,6 @@ plugins:
   - jekyll-seo-tag
 
 navbar-links:
-  About Me: "about"
   Certifications: "certifications"
   Cloud Security: "cloud_security"
   Detection Engineering: "detection_engineering"
