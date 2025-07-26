@@ -25,3 +25,4 @@ navbar-links:
   Security Operations Center (SOC): "security_operation_center"
   Tools: "tools"
 
+# Force GitHub Pages to rebuild
