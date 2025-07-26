@@ -3,7 +3,7 @@ description: "Cybersecurity Consulting Portfolio – Segun Oladipo"
 author: "Segun Oladipo"
 url: "https://so17213.github.io"
 baseurl: ""
-theme: beautiful-jekyll
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
