@@ -1,4 +1,5 @@
 ---
-layout: home
-title: "Cybersecurity Consulting Portfolio"
+layout: default
+title: Home
 ---
+
