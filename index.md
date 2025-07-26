@@ -1,11 +1,11 @@
 ---
 layout: home
-title: "Segun Oladipo – Cybersecurity Portfolio"
+title: "Cybersecurity Portfolio"
 ---
 
 ## 👋 Hi, I'm Segun
 
-I'm a cybersecurity engineer with hands-on experience in:
+I'm a cybersecurity professional with hands-on experience in:
 
 - Detection Engineering (Splunk, CrowdStrike, Netskope, AWS)
 - Threat Hunting (across Windows, macOS, and Cloud logs)

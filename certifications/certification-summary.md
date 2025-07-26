@@ -1,4 +1,4 @@
-# 📜 Certification Summary – Segun Oladipo
+# 📜 Certification Summary
 
 Below is a summary of my professional certifications across cybersecurity, cloud, SIEM, and incident response. These reflect a balance of hands-on capability and broad domain knowledge.
 
