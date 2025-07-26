@@ -11,7 +11,7 @@ plugins:
 
 # Define main navigation links
 navbar-links:
-  Home: "index"
+  Home: "about_me"
   About Me: "about_me"
   Certifications: "certifications"
   Detection Engineering: "detection_engineering"
