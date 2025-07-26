@@ -1,5 +1,6 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Cybersecurity Consulting Portfolio
+permalink: /
 ---
 
